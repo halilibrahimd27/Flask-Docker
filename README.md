@@ -20,7 +20,7 @@ Bu projeyi çalıştırmak için aşağıdaki araçlara ihtiyacınız vardır:
 ├── requirements.txt        # Gerekli Python bağımlılıkları
 ├── Dockerfile              # Docker imajı oluşturma talimatları
 ├── docker-compose.yaml     # docker-compose yapılandırma dosyası
-└── README.md               # Proje rehberi
+README.md               # Proje rehberi
 
 
 ---
