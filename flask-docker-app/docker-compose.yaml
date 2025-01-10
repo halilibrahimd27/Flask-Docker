@@ -5,6 +5,6 @@ services:
     ports:
       - "2700:2700"
     volumes:
-      - .:/app
+      - ./Fflask-docker-app:/app 
     environment:
       - FLASK_ENV=development
